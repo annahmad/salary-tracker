@@ -1,6 +1,6 @@
 # Salary Tracker
 
-A Python-based employee salary tracker that manages employee levels and salaries with built-in validation using property decorators.
+A Python-based employee salary tracker that manages employee levels and salaries with built-in validation using property decorators. Built as part of the freeCodeCamp Python Certification.
 
 ## Features
 
